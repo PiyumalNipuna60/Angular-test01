@@ -1,0 +1,5 @@
+npm install -g @angular/cli -> angular install
+ng v -> version eka balaganna 
+ng new project01 -> new project ekak hadanna
+ng serve --open -> project eka run karanna
+ng generate component home or ng g c home - component hadanna
